@@ -1,0 +1,35 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.644);
+    color:aqua;
+    padding:30px;
+}
+nav ul li {
+  display:inline;
+  margin-right: 30px;
+}
+nav ul li a {
+    color:white;
+    text-decoration: none;
+}
+footer {
+    background-color:rgba(0, 0, 0, 0.826);
+    color:rgb(240, 255, 254);
+    padding: 10px;
+}
+#home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#portofolio {
+  background-color:red;
+  padding: 10px;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
